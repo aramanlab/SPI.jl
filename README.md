@@ -5,6 +5,9 @@
 [![Build Status](https://github.com/aramanlab/SPI.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/aramanlab/SPI.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/aramanlab/SPI.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/aramanlab/SPI.jl)
 
+### Superseded by [SpectralInference.jl](https://github.com/aramanlab/SpectralInference.jl)
+This version is being kept as an archived version that was used for our initial paper
+
 ## Install
 
 type:
